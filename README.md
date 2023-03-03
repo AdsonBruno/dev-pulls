@@ -1,16 +1,5 @@
-# programmer_for_dev
+# Aplicação mobile de enquetes de usuários
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto tem o intuíto de criar um versão mobile de um sistema de enquetes para desenvolvedores. Os desenvolvedores poderão cadastrar perguntas e obter votações referentes as quentes que estão cadastradas.
