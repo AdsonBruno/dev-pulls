@@ -39,6 +39,7 @@ dependencies:
   equatable: ^2.0.5
   get: ^4.6.5
   flutter_secure_storage: ^8.0.0
+  localstorage: ^4.0.1+2
 
 dev_dependencies:
   flutter_test:
