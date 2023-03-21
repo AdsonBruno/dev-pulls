@@ -7,14 +7,14 @@ Este projeto tem o intuíto de criar um versão mobile de um sistema de enquetes
 ## Pré-Requisitos
 
 Para poder rodar o projeto, é preciso que instale o FVM (Flutter Version Management)
-Toda a documentação pode ser encontrada no seguinte link: <https://fvm.app/docs/getting_started/installation>
+Toda a documentação pode ser encontrada no seguinte link: Documentação [FVM](https://fvm.app/docs/getting_started/installation)
 
 ## Instalando o FVM
 
 Será instalado como forma de pacote
 
 ```bash
-dart pub global activate fvm
+ > dart pub global activate fvm
 ```
 
 ## Executando o FVM
@@ -23,8 +23,7 @@ Após ser executado com o comando abaixo, o FVM irá baixar a versão do flutter
 assim evitará erros de versões.
 
 ```bash
- fvm install
-
+ > fvm install
 ```
 
 ## Tecnologias Utilizadas
