@@ -1,5 +1,9 @@
 # Aplicação mobile de enquetes de usuários
 
+## Em construção
+
+![img](/docs/em_constru%C3%A7%C3%A3o.jpg)
+
 ## Descrição
 
 Este projeto tem o intuíto de criar um versão mobile de um sistema de enquetes para desenvolvedores. Os desenvolvedores poderão cadastrar perguntas e obter votações referentes as quentes que estão cadastradas.
