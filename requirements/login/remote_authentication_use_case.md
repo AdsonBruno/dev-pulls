@@ -2,8 +2,8 @@
 
 > ## Casos de Sucesso
 
-1. Sistemas valida os dados
-2. Sistema faz requisição para a URL da API de Login
+1. ✅ Sistemas valida os dados
+2. ✅ Sistema faz requisição para a URL da API de Login
 3. Sistema valida os dados recebidos da API
 4. Sistemas entrega os dados da conta ao usuário
 
