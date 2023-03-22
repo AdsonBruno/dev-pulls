@@ -14,7 +14,7 @@ Toda a documentação pode ser encontrada no seguinte link: Documentação [FVM]
 Será instalado como forma de pacote
 
 ```bash
- > dart pub global activate fvm
+> dart pub global activate fvm
 ```
 
 ## Executando o FVM
